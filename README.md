@@ -1,0 +1,1 @@
+# EXP.NO-6-edge-detection--Opencv.
